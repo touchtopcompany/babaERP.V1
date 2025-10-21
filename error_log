@@ -1,0 +1,61 @@
+[19-Nov-2023 05:33:49 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home4/uw6ry4km/v2.babaerp.live/vendor/composer/platform_check.php on line 24
+[19-Nov-2023 05:34:40 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home4/uw6ry4km/v2.babaerp.live/vendor/composer/platform_check.php on line 24
+[19-Nov-2023 16:29:36 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 7.4.33. in /home4/uw6ry4km/v2.babaerp.live/vendor/composer/platform_check.php on line 24
+[20-Nov-2023 18:02:15 Asia/Kolkata] PHP Fatal error:  Cannot redeclare accounting() (previously declared in /home4/uw6ry4km/v2.babaerp.live/Modules/Accounting/Helpers/general_helper.php:10) in /home4/uw6ry4km/v2.babaerp.live/Modules/Accounting/Helpers/general_helper.php on line 11
+[20-Nov-2023 18:03:10 Asia/Kolkata] PHP Fatal error:  Cannot redeclare accounting() (previously declared in /home4/uw6ry4km/v2.babaerp.live/Modules/Accounting/Helpers/general_helper.php:10) in /home4/uw6ry4km/v2.babaerp.live/Modules/Accounting/Helpers/general_helper.php on line 11
+[20-Nov-2023 11:23:40 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 11:50:55 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 11:53:25 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 11:54:37 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 11:54:54 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 11:59:42 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 13:33:38 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 14:08:10 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 14:15:09 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 14:15:37 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 14:15:56 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 14:16:13 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 14:18:01 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 14:18:27 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 14:18:50 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[20-Nov-2023 14:19:07 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[22-Nov-2023 09:35:17 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[23-Nov-2023 03:11:54 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[23-Nov-2023 11:33:26 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[09-Dec-2023 05:20:52 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[09-Dec-2023 05:23:37 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[12-Dec-2023 09:11:33 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[27-Feb-2024 02:16:20 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[27-Feb-2024 02:18:13 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[27-Feb-2024 02:19:24 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[27-Feb-2024 02:21:04 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[14-May-2024 00:51:23 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[14-May-2024 00:51:24 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[14-May-2024 00:51:46 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[15-May-2024 21:48:30 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[15-May-2024 21:49:41 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[15-May-2024 22:07:14 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[15-May-2024 22:07:22 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[15-May-2024 22:07:54 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[15-May-2024 22:09:30 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[15-May-2024 22:10:07 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[14-Jun-2024 07:12:04 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[14-Jun-2024 07:21:46 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[14-Jun-2024 07:24:05 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[14-Jun-2024 07:25:52 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[14-Jun-2024 07:26:38 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[14-Jun-2024 07:27:26 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[14-Jun-2024 07:28:54 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[14-Jun-2024 07:29:21 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[22-Jun-2024 03:38:42 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[28-Jun-2024 08:07:34 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[28-Jun-2024 08:07:55 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[05-Jul-2024 06:59:59 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[08-Jul-2024 14:25:09 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[13-Jul-2024 17:19:06 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[21-Aug-2024 10:15:32 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[21-Aug-2024 10:16:29 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[21-Aug-2024 10:22:08 America/Chicago] PHP Warning:  Undefined array key "HTTP_HOST" in /home4/uw6ry4km/v2.babaerp.live/config/cache.php on line 109
+[28-Sep-2024 11:06:16 UTC] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u717332437/domains/babaerp.live/public_html/config/cache.php on line 109
+[28-Sep-2024 11:08:14 UTC] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u717332437/domains/babaerp.live/public_html/config/cache.php on line 109
+[28-Sep-2024 14:05:22 UTC] PHP Warning:  Undefined array key "HTTP_HOST" in /home/u717332437/domains/babaerp.live/public_html/config/cache.php on line 109

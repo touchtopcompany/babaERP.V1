@@ -1,0 +1,11 @@
+{
+    "name": "Subdomain",
+    "alias": "subdomain",
+    "description": "Subdomains added under BABAERP Main Domain",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Subdomain\\Providers\\SubdomainServiceProvider"
+    ],
+    "files": []
+}
